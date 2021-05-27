@@ -1,4 +1,4 @@
-package base;
+package com.angyi.www.base;
 
 public class Demo08 {
     // 属性
@@ -18,7 +18,7 @@ public class Demo08 {
         int i = 10;
         System.out.println(i);
 
-        //变量类型 变量名字 = new base.Demo08()
+        //变量类型 变量名字 = new com.angyi.www.base.Demo08()
         Demo08 Demo08 = new Demo08();
         System.out.println(Demo08.age);
         System.out.println(Demo08.name);

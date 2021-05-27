@@ -1,4 +1,4 @@
-package base;
+package com.angyi.www.base;
 
 public class Demo07 {
     public static void main(String[] args) {
