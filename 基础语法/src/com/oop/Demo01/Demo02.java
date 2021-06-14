@@ -7,6 +7,12 @@ public class Demo02 {
         Student li = new Student();
         li.say();
         Student.say2();
+        Person person = new Person();
+        System.out.println(person.name);
     }
 
+}
+
+class Person{
+    String name;
 }
