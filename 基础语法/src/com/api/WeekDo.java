@@ -24,9 +24,29 @@ public class WeekDo {
         }
     }
 
+    // 使用枚举
+    public void doWhat2(Week day){
+        switch (day){
+            case MON:
+            case TUE:
+            case WES:
+            case THU:
+            case FRI:
+                System.out.println("工作日，请努力工作");
+                break;
+            case SAT:
+                System.out.println("今天周六");
+                break;
+            case SUN:
+                System.out.println("今天周日");
+                break;
+        }
+    }
+
     public static void main(String[] args) {
         WeekDo wd = new WeekDo();
         wd.doWhat(8);
+        wd.doWhat2(Week.SUN);
     }
 
 
