@@ -1,4 +1,4 @@
-package com.ay;
+package com.ay.linkedlist;
 
 public class LinkedList<E> implements List<E>{
     private int size;

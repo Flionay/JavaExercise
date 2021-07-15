@@ -1,4 +1,4 @@
-package com.ay;
+package com.ay.linkedlist;
 
 public interface List<E> {
     void clear();
