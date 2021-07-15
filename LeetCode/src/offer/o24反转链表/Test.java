@@ -1,6 +1,5 @@
 package offer.o24反转链表;
 
-import java.util.List;
 
 public class Test {
     public static void main(String[] args) {
@@ -15,6 +14,11 @@ public class Test {
 
         // 输出一下
         System.out.println(list1.next.next.val); //2
+
+        // 测试翻转链表
+        Solution s = new Solution();
+
+        System.out.println(s.reverseList(list1).val);
 
     }
 }
