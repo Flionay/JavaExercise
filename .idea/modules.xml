@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bootstrap/Bootstrap.iml" filepath="$PROJECT_DIR$/Bootstrap/Bootstrap.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaExercise.iml" filepath="$PROJECT_DIR$/JavaExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaScript/JavaScript.iml" filepath="$PROJECT_DIR$/JavaScript/JavaScript.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/基础语法/online.angyi.iml" filepath="$PROJECT_DIR$/基础语法/online.angyi.iml" />
       <module fileurl="file://$PROJECT_DIR$/基础语法/online.angyi.www.iml" filepath="$PROJECT_DIR$/基础语法/online.angyi.www.iml" />
