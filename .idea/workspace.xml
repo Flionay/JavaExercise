@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="408d03b9-5959-49e5-a589-b93e1f504ce2" name="Default Changelist" comment="welcome page">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrap/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/static/css/my-class.css" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrap/static/css/my-class.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/welcome.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrap/welcome.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Bootstrap/static/fonts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -129,6 +129,7 @@
       <workItem from="1627978812039" duration="1732000" />
       <workItem from="1628054843634" duration="8272000" />
       <workItem from="1628064590855" duration="2785000" />
+      <workItem from="1628080421717" duration="4914000" />
     </task>
     <task id="LOCAL-00001" summary="bootstrap">
       <created>1627895304977</created>
