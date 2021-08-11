@@ -7,7 +7,7 @@
 
 .my-font-h2{
     /*font-family: "Fira Code Retina";*/
-    font-weight: normal;
+    font-weight:normal;
     color: white;
     font-size: large;
 }
@@ -20,6 +20,7 @@
     transform: translate(-50%, -50%);    /* 50%为自身尺寸的一半 */
 }
 
-.my-cover{
-    background: url("../img/welcom.jpg");
+.my-welcome-icon{
+    color:white;!important;
+    font-size: 40px;!important;
 }

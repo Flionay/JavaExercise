@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="408d03b9-5959-49e5-a589-b93e1f504ce2" name="Default Changelist" comment="welcome page">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/static/css/my-class.css" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrap/static/css/my-class.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/welcome.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrap/welcome.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,10 +14,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
-        <option value="Class" />
       </list>
     </option>
   </component>
@@ -34,9 +31,6 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/JDBC/src/main/java/JdbcFirstDemo.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1vKVbpjNbXnWGjoG2tB6E6pwVgn" />
   <component name="ProjectLevelVcsManager">
@@ -52,45 +46,28 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/JDBC" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Desktop\JavaExercise\JDBC" />
       <recent name="D:\Desktop\JavaExercise\Bootstrap\static\fonts" />
       <recent name="D:\Desktop\JavaExercise\Bootstrap\static\css" />
       <recent name="D:\Desktop\JavaExercise\Bootstrap\static" />
       <recent name="D:\Desktop\JavaExercise\LeetCode\src\链表" />
+      <recent name="D:\Desktop\JavaExercise\数据结构与算法\src\com\ay\arraylist" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Desktop\JavaExercise" />
-      <recent name="D:\Desktop\JavaExercise\JDBC\src" />
-      <recent name="D:\Desktop\JavaExercise\JDBC" />
-      <recent name="D:\Desktop\JavaExercise\JDBC\lib" />
       <recent name="D:\Desktop\JavaExercise\Bootstrap\static" />
+      <recent name="D:\Desktop\JavaExercise\LeetCode\src" />
+      <recent name="D:\Desktop\JavaExercise\LeetCode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LoadProperties">
-    <configuration name="JdbcFirstDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JdbcFirstDemo" />
-      <module name="JDBC" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoadProperties" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LoadProperties" />
-      <module name="JDBC" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ay.linkedlist.Main" />
       <module name="数据结构与算法" />
@@ -130,24 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson02.TestInsert" />
-      <module name="JDBC" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LoadProperties" />
-        <item itemvalue="Application.TestInsert" />
-        <item itemvalue="Application.JdbcFirstDemo" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Test" />
       </list>
@@ -167,9 +128,8 @@
       <workItem from="1627895208150" duration="89000" />
       <workItem from="1627978812039" duration="1732000" />
       <workItem from="1628054843634" duration="8272000" />
-      <workItem from="1628064590855" duration="3010000" />
-      <workItem from="1628555987936" duration="843000" />
-      <workItem from="1628663706642" duration="6937000" />
+      <workItem from="1628064590855" duration="2785000" />
+      <workItem from="1628080421717" duration="4914000" />
     </task>
     <task id="LOCAL-00001" summary="bootstrap">
       <created>1627895304977</created>
@@ -178,14 +138,7 @@
       <option name="project" value="LOCAL" />
       <updated>1627895304977</updated>
     </task>
-    <task id="LOCAL-00002" summary="welcome page">
-      <created>1628067591033</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1628067591033</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
